@@ -26,7 +26,6 @@ while True:
     else:
         c.close()
         break
----
 ##Server
 ---
 import socket
